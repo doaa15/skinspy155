@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">skinSpy</string>
+    <string name="facebook_app_id">1392892771336890</string>
+    <string name="fb_login_protocol_scheme">fb1392892771336890</string>
+    <string name="facebook_client_token">1392892771336890|ae4b7b933e0705c759b115421bbce73c</string>
+
+</resources>
